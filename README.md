@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter(Dart)**
 
-- ⚡ Fun fact **Being surrounded by so many incredibly talented and motivated individuals made me be more motivated and want to get out of my comfort zone more.**
+- ⚡ **Being surrounded by so many incredibly talented and motivated individuals made me be more motivated and want to get out of my comfort zone more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
