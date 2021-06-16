@@ -2,6 +2,8 @@
 <h3 align="center">I am studying for a bachelor's degree in computer science form Thailand</h3>
 
 
+- 👨‍💻 You can also check out my portfolio at https://augarh.github.io/
+
 - 🌱 I’m currently learning **Flutter(Dart)**
 
 - ⚡ **Being surrounded by so many incredibly talented and motivated individuals made me be more motivated and want to get out of my comfort zone more.**
