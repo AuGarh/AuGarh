@@ -4,7 +4,7 @@
 
 - 👨‍💻 You can also check out my portfolio at https://augarh.github.io/
 
-- 🌱 I’m currently learning **Flutter(Dart)**
+- 🌱 I’m currently learning ** Augular, C# **
 
 - ⚡ **Being surrounded by so many incredibly talented and motivated individuals made me be more motivated and want to get out of my comfort zone more.**
 
